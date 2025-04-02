@@ -1,6 +1,8 @@
 # Random Picker
 
-A simple web application that randomly selects an item from a list. Live demo: [https://randompick.vercel.app](https://randompick.vercel.app)
+A simple web application that randomly selects an item from a list. 
+
+Try it out: [https://randompicker.harrywang.me](https://randompicker.harrywang.me)
 
 ## Quick Start
 
