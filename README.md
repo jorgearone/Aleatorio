@@ -22,7 +22,3 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 - Tailwind CSS
 - shadcn/ui components
 - [Logo source](https://www.svgrepo.com/svg/218235/shuffle-random)
-
-## Repository
-
-[https://github.com/harrywang/randompick](https://github.com/harrywang/randompick)
