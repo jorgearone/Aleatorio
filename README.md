@@ -1,6 +1,6 @@
 # Random Picker
 
-A simple web application that randomly selects an item from a list.
+A simple web application that randomly selects an item from a list. Live demo: [https://randompick.vercel.app](https://randompick.vercel.app)
 
 ## Quick Start
 
@@ -21,4 +21,8 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 - TypeScript
 - Tailwind CSS
 - shadcn/ui components
-- [logo](https://www.svgrepo.com/svg/218235/shuffle-random)
+- [Logo source](https://www.svgrepo.com/svg/218235/shuffle-random)
+
+## Repository
+
+[https://github.com/harrywang/randompick](https://github.com/harrywang/randompick)
