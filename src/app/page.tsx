@@ -90,6 +90,7 @@ export default function Home() {
               <CardTitle className="text-2xl md:text-3xl">Random Picker</CardTitle>
             </div>
             <CardDescription className="text-center">Enter items (one per line) and click the button to randomly pick one</CardDescription>
+            <p className="text-xs text-center text-muted-foreground mt-1">Your data stays private - nothing is saved or tracked</p>
           </CardHeader>
           
           <CardContent className="space-y-4">
