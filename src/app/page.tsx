@@ -156,7 +156,7 @@ export default function Home() {
         </Card>
       </div>
       
-      <div className="mt-6 mb-2 flex items-center gap-1">
+      <div className="mt-6 mb-2 flex items-center gap-3">
         <a 
           href="https://github.com/randompicker" 
           target="_blank" 
@@ -166,10 +166,22 @@ export default function Home() {
         >
           <Image src="/github.svg" alt="GitHub" width={24} height={24} className="dark:invert" />
         </a>
-        <div className="text-sm text-muted-foreground">
-          <span className="hover:text-foreground transition-colors">
-            Selector Aleatorio 2025
-          </span>
+        <div className="text-sm text-muted-foreground flex items-center gap-3">
+          <span>Selector Aleatorio 2025</span>
+          <span className="text-muted-foreground/50">|</span>
+          <a 
+            href="https://www.linkedin.com/in/jorgearone/" 
+            target="_blank" 
+            rel="noopener noreferrer"
+            className="hover:text-foreground transition-colors flex items-center gap-1"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-linkedin">
+              <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/>
+              <rect width="4" height="12" x="2" y="9"/>
+              <circle cx="4" cy="4" r="2"/>
+            </svg>
+            <span>Mi LinkedIn</span>
+          </a>
         </div>
       </div>
     </div>
